@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Sudoku Solution Finder",
+  "description": "A Chrome extension to find solutions for Sudoku puzzles.",
+  "version": "1.0"
+}
